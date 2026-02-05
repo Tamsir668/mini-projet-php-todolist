@@ -1,0 +1,18 @@
+body {
+    font-family: Arial;
+    margin: 20px;
+}
+
+.task {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.à\ faire { background: #f0f0f0; }
+.en\ cours { background: #fff3cd; }
+.terminée { background: #d4edda; }
+
+.retard {
+    border: 2px solid red;
+}
